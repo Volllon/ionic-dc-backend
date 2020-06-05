@@ -47,3 +47,21 @@ Also you can use docker, I added the ability to work with our application withou
 ```docker-compose up --build```
 
 the application will be available on the same local port as in development mode
+
+### Features
+
+For unlogged user:
+- registration;
+- authorization;
+- password recovery;
+
+For user:
+- cleaner/my order list;
+- add order;
+- balance.
+
+For admin:
+- user/cleaner/all order/my order list;
+- create/edit cleaner;
+- change status order;
+- balance.
